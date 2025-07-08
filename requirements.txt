@@ -1,0 +1,10 @@
+
+streamlit
+groq
+serpapi
+langchain-community
+langchain-core
+beautifulsoup4
+requests
+python-dotenv
+tiktoken
