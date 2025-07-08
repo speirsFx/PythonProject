@@ -22,20 +22,6 @@ Built with:
 
 ---
 
-## 🖥️ Live Demo
-
-*Coming soon on Streamlit Community Cloud / Hugging Face Spaces*
-
----
-
-## 📸 Screenshots
-
-| Tool Recommendation | Tool Feature Extraction |
-|----------------------|------------------------|
-| ![Recommendation](https://via.placeholder.com/500x300?text=Recommendation+Screenshot) | ![Feature Extraction](https://via.placeholder.com/500x300?text=Feature+Extraction+Screenshot) |
-
----
-
 ## 🛠 Tech Stack
 
 | Tech | Purpose |
@@ -101,21 +87,14 @@ streamlit run app.py
 
 ---
 
-## 💡 Future Enhancements
+## 💡 Enhancements
 
 - Add caching for faster repeated queries  
-- Expand tool database with manual entries  
-- Deploy live app with public link  
-- Add comparison charts and scoring
+- Expand tool database with manual entries
+- Use webscrapping for recommendation with latest data (free version doesnt support token >  6000)
 
 ---
 
-## 🤝 Contributing
-
-Contributions, ideas, and issues are welcome!  
-Please open an issue or pull request on [GitHub](https://github.com/yourusername/etl-elt-tool-comparator).
-
----
 
 ## ⚠️ Disclaimer
 
