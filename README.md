@@ -39,8 +39,8 @@ Built with:
 
 1. **Clone this repo**
 ```bash
-git clone https://github.com/yourusername/etl-elt-tool-comparator.git
-cd etl-elt-tool-comparator
+git clone https://github.com/speirsFx/PythonProject.git
+cd PythonProject
 ```
 
 2. **Create virtual environment (optional but recommended)**
